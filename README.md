@@ -3,18 +3,6 @@
 
 Welcome to CryptoTrii, your one-stop destination for all things cryptocurrency! CryptoTrii provides detailed information about various cryptocurrencies, including real-time data, charts, market capitalization, and more. You can also explore top-rated cryptocurrency exchanges in India, making it a breeze to buy and trade your favorite digital assets.
 
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
 ## Features
 
 #### *Cryptocurrency Details*
